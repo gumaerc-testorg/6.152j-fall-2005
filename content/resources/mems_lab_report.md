@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-152j-micro-nano-processing-technology-fall-2005/355bbb32e07bfb5316e2cf2bb55171de_MEMS_Lab_Report.pdf
+file: /media/courses/6-152j-micro-nano-processing-technology-fall-2005/355bbb32e07bfb5316e2cf2bb55171de_MEMS_Lab_Report.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: MEMS_Lab_Report.pdf
 uid: 355bbb32-e07b-fb53-16e2-cf2bb55171de

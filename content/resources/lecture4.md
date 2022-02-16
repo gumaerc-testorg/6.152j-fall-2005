@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resourse discusses almost every thing about diffusion.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-152j-micro-nano-processing-technology-fall-2005/dbad8f442ecf1244e2a257de2671d0e2_lecture4.pdf
+file: /media/courses/6-152j-micro-nano-processing-technology-fall-2005/dbad8f442ecf1244e2a257de2671d0e2_lecture4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture4.pdf
 uid: dbad8f44-2ecf-1244-e2a2-57de2671d0e2

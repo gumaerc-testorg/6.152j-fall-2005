@@ -2,8 +2,13 @@
 content_type: resource
 description: This resourse contains review of the process and testing, discussion
   upon fluidics and guidance on lab report.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-152j-micro-nano-processing-technology-fall-2005/6a4ddcffc972c4485f4dca504dab6727_lecture20.pdf
+file: /media/courses/6-152j-micro-nano-processing-technology-fall-2005/6a4ddcffc972c4485f4dca504dab6727_lecture20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture20.pdf
 uid: 6a4ddcff-c972-c448-5f4d-ca504dab6727
