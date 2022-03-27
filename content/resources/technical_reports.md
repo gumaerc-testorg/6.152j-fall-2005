@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 950e560c-e84e-a828-a85a-111d9a360052
 resourcetype: Document
 title: technical_reports.pdf
 uid: 5480d46c-c8ed-8ba5-cddc-5f05410b943e

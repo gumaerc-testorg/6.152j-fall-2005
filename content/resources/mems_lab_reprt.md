@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 9fb8e576-41fc-f439-ef0c-45644f8a9fab
 resourcetype: Document
 title: mems_lab_reprt.pdf
 uid: fb350af7-7942-588d-27da-ed84bb3ff095

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: fd074332-0825-ff37-d123-1d240fb32020
 resourcetype: Document
 title: quiz_figs.pdf
 uid: 04f5113c-0db4-b402-39e8-508a028f2d73

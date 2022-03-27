@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 9fb8e576-41fc-f439-ef0c-45644f8a9fab
 resourcetype: Document
 title: micrfds_lab_rpt.pdf
 uid: 758a4259-ebaa-c189-3f2e-1376f1d24376
