@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section contains an overview and list of materials for
+  the course, grading criteria participation guidelines and a guide to the instructor's
+  evaluation of case write-ups.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,7 +21,7 @@ Course Overview
 
 This course introduces the theory and technology of micro/nano fabrication. Because of the interdisciplinary nature of the subject, its content includes concepts from many disciplines in engineering (electrical, materials, mechanical, chemical) and science. In lecture, we will discuss the theory of basic processing techniques, such as diffusion, oxidation, photolithography, chemical vapor deposition, physical vapor deposition, etching, and metallization.
 
-In the [labs]({{< baseurl >}}/pages/labs) section of this course, we will be fabricating three different devices; an MOS capacitor, a microcantilever, and a microfluidic device. You will test each device in the lab and prepare a laboratory report for each device.
+In the {{% resource_link 9fb8e576-41fc-f439-ef0c-45644f8a9fab "labs" %}} section of this course, we will be fabricating three different devices; an MOS capacitor, a microcantilever, and a microfluidic device. You will test each device in the lab and prepare a laboratory report for each device.
 
 At the end of this course, one should have a good understanding of the various processing techniques used to micro/nano fabricate. One should understand the theory of the individual processes, how they are characterized, and the interrelationship of these processes when combined to fabricate devices.
 

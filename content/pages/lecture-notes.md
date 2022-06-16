@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains class notes files of the topics covered in the
+  lecture.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,7 +38,7 @@ LecturerS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Overview/Safety/Lab Assignment ([PDF]({{< baseurl >}}/resources/lecture1))  
+Overview/Safety/Lab Assignment ({{% resource_link 97b9d9c6-3fdd-0414-5f70-ffcd867cf190 "PDF" %}})  
   
 CI-M: Introduction to CI-M
 {{< tdclose >}}
@@ -52,7 +54,7 @@ SR
 2
 {{< tdclose >}}
 {{< tdopen >}}
-IC Lab - Overview ([PDF]({{< baseurl >}}/resources/lecture2))
+IC Lab - Overview ({{% resource_link 9878a7ac-dd96-32ca-a5af-b8b4b96a6f39 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MAS
@@ -76,7 +78,7 @@ MAS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.5 MB]({{< baseurl >}}/resources/lecture4))
+Diffusion ({{% resource_link dbad8f44-2ecf-1244-e2a2-57de2671d0e2 "PDF - 4.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH
@@ -88,9 +90,9 @@ RCOH
 5
 {{< tdclose >}}
 {{< tdopen >}}
-IC Lab: Testing ([PDF]({{< baseurl >}}/resources/lecture5))  
+IC Lab: Testing ({{% resource_link 81a928a9-3402-536d-d07b-f63dbd8338f7 "PDF" %}})  
   
-CI-M: Writing Technical Reports ([PDF]({{< baseurl >}}/resources/technical_reports))
+CI-M: Writing Technical Reports ({{% resource_link 5480d46c-c8ed-8ba5-cddc-5f05410b943e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MAS  
@@ -104,7 +106,7 @@ SR
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion/Implantation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture6))
+Diffusion/Implantation ({{% resource_link fa6170fb-a10b-d134-1251-791563a18fc2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH
@@ -116,7 +118,7 @@ RCOH
 7
 {{< tdclose >}}
 {{< tdopen >}}
-MEMS Lab: Overview (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture7))
+MEMS Lab: Overview ({{% resource_link 5c9d3a1e-6d39-b446-3af6-b59096aeb75b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MAS
@@ -128,7 +130,7 @@ MAS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Vacuum System ([PDF]({{< baseurl >}}/resources/vacsci))
+Vacuum System ({{% resource_link 4f6fd21f-b796-7823-44b2-9df7d9edcc0d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH
@@ -140,7 +142,7 @@ RCOH
 9
 {{< tdclose >}}
 {{< tdopen >}}
-CVD ([PDF]({{< baseurl >}}/resources/cvd))
+CVD ({{% resource_link cad5227d-dbdf-120b-e10a-0c372f2ccedd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH
@@ -152,9 +154,9 @@ RCOH
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Sputtering ([PDF]({{< baseurl >}}/resources/pvd_1))  
+Sputtering ({{% resource_link 8a19f622-8fc0-8e9f-9fb0-7393eabe5d67 "PDF" %}})  
   
-CI-M: Feedback on IC Report, Reports Returned ([PDF]({{< baseurl >}}/resources/lecture10))
+CI-M: Feedback on IC Report, Reports Returned ({{% resource_link 2808301c-9694-e6f8-03a4-cb125db7472a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH  
@@ -181,7 +183,7 @@ MAS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Evaporation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6 MB]({{< baseurl >}}/resources/lecture12))
+Evaporation ({{% resource_link d9097b1b-0362-6451-2858-784ebe967e84 "PDF - 2.6 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH
@@ -193,7 +195,7 @@ RCOH
 13
 {{< tdclose >}}
 {{< tdopen >}}
-MEMS Lab: Testing ([PDF - 1.6 MB]({{< baseurl >}}/resources/lecture13))
+MEMS Lab: Testing ({{% resource_link 4e555db9-3fbd-2b74-73f1-4100fbaadcc8 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MAS
@@ -229,7 +231,7 @@ MAS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Etching (Wet) ([PDF - 3.5 MB]({{< baseurl >}}/resources/lecture16))
+Etching (Wet) ({{% resource_link 83b8c6a4-6af5-2140-61af-4f03542cec40 "PDF - 3.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH
@@ -241,7 +243,7 @@ RCOH
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Etching (Dry) ([PDF]({{< baseurl >}}/resources/lecture17))
+Etching (Dry) ({{% resource_link 59b9f31d-8363-55a3-380a-a156925508bc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH
@@ -277,7 +279,7 @@ MAS
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Fluids Lab: Testing ([PDF]({{< baseurl >}}/resources/lecture20))
+Fluids Lab: Testing ({{% resource_link 6a4ddcff-c972-c448-5f4d-ca504dab6727 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MAS
@@ -289,7 +291,7 @@ MAS
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Take Home Introduction / Patents ([PDF]({{< baseurl >}}/resources/lecture21))
+Take Home Introduction / Patents ({{% resource_link 839797c1-b903-a247-cccb-8df9501f8748 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MAS
@@ -301,7 +303,7 @@ MAS
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Take Home Discussion ([PDF]({{< baseurl >}}/resources/lecture22))
+Take Home Discussion ({{% resource_link fca9b08a-4797-3425-8c01-db3f2099200a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MAS
