@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the course schedule, grading and
+  readings for the course
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: badfb896-ec65-2383-0c1e-0b174f3cc079
 ---
