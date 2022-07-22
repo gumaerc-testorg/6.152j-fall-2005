@@ -5,6 +5,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/dbad8f442ecf124
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture4.pdf
 uid: dbad8f44-2ecf-1244-e2a2-57de2671d0e2
 ---
 This resourse discusses almost every thing about diffusion.
-

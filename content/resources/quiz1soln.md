@@ -6,6 +6,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/39935e44989db3d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz1soln.pdf
 uid: 39935e44-989d-b3de-b268-a09c5355ecf4
 ---
 Problems on oxidation, diffusion, ion implantation and chemical vapor deposition.
-

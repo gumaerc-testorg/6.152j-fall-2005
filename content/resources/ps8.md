@@ -6,6 +6,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/2bcac72541dea46
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps8.pdf
 uid: 2bcac725-41de-a462-606e-be914f9c1aeb
 ---
 Problem based on E/D NMOS device, oxidation temperature, time and ambient needed to form the LOCOS and gate oxides.
-

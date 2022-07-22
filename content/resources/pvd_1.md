@@ -5,6 +5,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/8a19f6228fc08e9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/fc0c5674f46800c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps5.pdf
 uid: fc0c5674-f468-00ca-0201-4a5701275c0a
 ---
 This resourse contains problems on CVD, oxygen plasma.
-

@@ -5,6 +5,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/fb350af77942588
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mems_lab_reprt.pdf
 uid: fb350af7-7942-588d-27da-ed84bb3ff095
 ---
 It tells about length, deadlines and content of the MEMS Lab Report.
-

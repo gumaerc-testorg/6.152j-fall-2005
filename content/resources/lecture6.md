@@ -5,6 +5,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/fa6170fba10bd13
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture6.pdf
 uid: fa6170fb-a10b-d134-1251-791563a18fc2
 ---
 This resourse discusses opon diffusion and Ion implantation.
-

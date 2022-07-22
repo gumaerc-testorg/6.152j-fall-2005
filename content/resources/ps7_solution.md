@@ -5,6 +5,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/8feed1c6a106ba7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps7_solution.pdf
 uid: 8feed1c6-a106-ba74-85bf-66365fb8ac02
 ---
 Solution of 7 problems on diffraction grating of SiO2 lines on Si.
-

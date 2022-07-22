@@ -5,6 +5,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/9b70bf51de2c590
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1.pdf
 uid: 9b70bf51-de2c-5901-f6eb-96e676075570
 ---
 Problem set consisting of Question numbers from chapter 1 and 2 of Plummer.
-

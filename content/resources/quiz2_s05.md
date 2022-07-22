@@ -5,6 +5,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/19eec08280b2e94
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz2_s05.pdf
 uid: 19eec082-80b2-e948-45de-d6d3e3958ba9
 ---
 Problems on equi-atomic SiGe film, thermal evaporation.
-

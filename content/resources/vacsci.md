@@ -6,6 +6,7 @@ file: /courses/6-152j-micro-nano-processing-technology-fall-2005/4f6fd21fb796782
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: vacsci.pdf
 uid: 4f6fd21f-b796-7823-44b2-9df7d9edcc0d
 ---
 It covers oxidation, ion implantation and diffusion, chemical vapor deposition (CVD) and physical vapor deposition (PVD).
-
