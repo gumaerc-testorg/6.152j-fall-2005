@@ -3,6 +3,7 @@ content_type: resource
 description: It covers oxidation, ion implantation and diffusion, chemical vapor deposition
   (CVD) and physical vapor deposition (PVD).
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/4f6fd21fb796782344b29df7d9edcc0d_vacsci.pdf
+file_size: 278051
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: Problems on oxidation, diffusion, ion implantation and chemical vapor
   deposition.
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/39935e44989db3deb268a09c5355ecf4_quiz1soln.pdf
+file_size: 81148
 file_type: application/pdf
 learning_resource_types:
 - Exams
