@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems on equi-atomic SiGe film, thermal evaporation.
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/19eec08280b2e94845ded6d3e3958ba9_quiz2_s05.pdf
+file_size: 184102
 file_type: application/pdf
 learning_resource_types:
 - Exams

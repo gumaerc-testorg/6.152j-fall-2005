@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/5480d46cc8ed8ba5cddc5f05410b943e_technical_reports.pdf
+file_size: 35075
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

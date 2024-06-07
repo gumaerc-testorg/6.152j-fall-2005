@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems on Lithography.
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/ba5cab720add62bfec976bea72bb4840_ps6.pdf
+file_size: 115233
 file_type: application/pdf
 learning_resource_types:
 - Assignments

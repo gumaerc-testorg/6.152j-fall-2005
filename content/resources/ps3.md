@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/0126e8b41e1de12d89a786175eb216ee_ps3.pdf
+file_size: 104439
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resourse discusses almost every thing about diffusion.
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/dbad8f442ecf1244e2a257de2671d0e2_lecture4.pdf
+file_size: 4691954
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
