@@ -3,6 +3,7 @@ content_type: resource
 description: It cover information on Constants, Ideal gas, Gas kinetics, Oxidation,
   CVD, Diffusion, Ion implantation and electricity.
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/04f5113c0db4b40239e8508a028f2d73_quiz_figs.pdf
+file_size: 437919
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions of problems from chapter 4 of Campbell.
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/d67ba7eac5aada20cea45ce9e89d2054_ps2_solution.pdf
+file_size: 682093
 file_type: application/pdf
 learning_resource_types:
 - Assignments

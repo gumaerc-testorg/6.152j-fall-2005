@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions of problems on diffusion and ion implantation.
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/94c420d76e82bf4463fb6c6e6f550ddc_ps3_solutions.pdf
+file_size: 321928
 file_type: application/pdf
 learning_resource_types:
 - Assignments

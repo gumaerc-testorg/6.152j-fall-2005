@@ -2,6 +2,7 @@
 content_type: resource
 description: It tells about length, deadlines and content of the MEMS Lab Report.
 file: /courses/6-152j-micro-nano-processing-technology-fall-2005/fb350af77942588d27daed84bb3ff095_mems_lab_reprt.pdf
+file_size: 12069
 file_type: application/pdf
 learning_resource_types:
 - Labs
