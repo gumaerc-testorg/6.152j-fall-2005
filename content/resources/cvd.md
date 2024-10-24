@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discusses all about chemical vapor deposition (CVD).
-file: /courses/6-152j-micro-nano-processing-technology-fall-2005/cad5227ddbdf120be10a0c372f2ccedd_cvd.pdf
+file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/cad5227ddbdf120be10a0c372f2ccedd_cvd.pdf
 file_size: 443040
 file_type: application/pdf
 learning_resource_types:

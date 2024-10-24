@@ -2,7 +2,7 @@
 content_type: resource
 description: It covers reviewing of process, structures to be tested, sheet resistance,
   MOS capacitor.
-file: /courses/6-152j-micro-nano-processing-technology-fall-2005/81a928a93402536dd07bf63dbd8338f7_lecture5.pdf
+file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/81a928a93402536dd07bf63dbd8338f7_lecture5.pdf
 file_size: 187950
 file_type: application/pdf
 learning_resource_types:
