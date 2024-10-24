@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-152j-micro-nano-processing-technology-fall-2005/6cf4f71775440ef1705f713a1779d7ea_Microfluidics_Lab_Report.pdf
+file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/6cf4f71775440ef1705f713a1779d7ea_Microfluidics_Lab_Report.pdf
 file_size: 15613
 file_type: application/pdf
 learning_resource_types:

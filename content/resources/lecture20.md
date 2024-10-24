@@ -2,7 +2,7 @@
 content_type: resource
 description: This resourse contains review of the process and testing, discussion
   upon fluidics and guidance on lab report.
-file: /courses/6-152j-micro-nano-processing-technology-fall-2005/6a4ddcffc972c4485f4dca504dab6727_lecture20.pdf
+file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/6a4ddcffc972c4485f4dca504dab6727_lecture20.pdf
 file_size: 594703
 file_type: application/pdf
 learning_resource_types:
