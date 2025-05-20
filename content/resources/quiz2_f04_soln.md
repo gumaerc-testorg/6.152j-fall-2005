@@ -2,7 +2,7 @@
 content_type: resource
 description: Problems on ion implantation, chemical vapor deposition, oxidation, ion
   implantation, diffusion, sputter deposition, lithography and etching.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/de24526529979aea94a8888271873750_quiz2_f04_soln.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/de24526529979aea94a8888271873750_quiz2_f04_soln.pdf
 file_size: 89644
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resourse discusses opon diffusion and Ion implantation.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/fa6170fba10bd1341251791563a18fc2_lecture6.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/fa6170fba10bd1341251791563a18fc2_lecture6.pdf
 file_size: 594564
 file_type: application/pdf
 learning_resource_types:

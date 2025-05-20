@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Focusses on digital logic, logic technologies and CMOS processes.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/57460d7d1e3ffe8e245f4f2eb3d8f845_lecture18.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/57460d7d1e3ffe8e245f4f2eb3d8f845_lecture18.pdf
 file_size: 1692564
 file_type: application/pdf
 learning_resource_types:
