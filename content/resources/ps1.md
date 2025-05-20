@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set consisting of Question numbers from chapter 1 and 2 of Plummer.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/9b70bf51de2c5901f6eb96e676075570_ps1.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/9b70bf51de2c5901f6eb96e676075570_ps1.pdf
 file_size: 11948
 file_type: application/pdf
 learning_resource_types:

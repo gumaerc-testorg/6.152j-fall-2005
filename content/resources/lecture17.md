@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discussion on Dry etching.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/59b9f31d836355a3380aa156925508bc_lecture17.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/59b9f31d836355a3380aa156925508bc_lecture17.pdf
 file_size: 544051
 file_type: application/pdf
 learning_resource_types:
