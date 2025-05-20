@@ -2,7 +2,7 @@
 content_type: resource
 description: It contains introduction, information about staff, course organization,
   handout, lab assignments and safety.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/97b9d9c63fdd04145f70ffcd867cf190_lecture1.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/97b9d9c63fdd04145f70ffcd867cf190_lecture1.pdf
 file_size: 737394
 file_type: application/pdf
 learning_resource_types:

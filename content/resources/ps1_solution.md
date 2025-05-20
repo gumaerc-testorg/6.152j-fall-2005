@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions of problems on chapter 1 and 2 of Plummer.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/be2d0a1f94a86dec18d2dd088507ecc5_ps1_solution.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/be2d0a1f94a86dec18d2dd088507ecc5_ps1_solution.pdf
 file_size: 844944
 file_type: application/pdf
 learning_resource_types:

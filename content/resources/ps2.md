@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set from Campbell, chapter 4.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/ad01a3859b2fa2ba250fcd5ab5801596_ps2.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/ad01a3859b2fa2ba250fcd5ab5801596_ps2.pdf
 file_size: 12811
 file_type: application/pdf
 learning_resource_types:

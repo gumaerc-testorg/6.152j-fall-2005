@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discusses on EUV Lithography, Intel?s micro exposure tool.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/0a6a8cae0ade92c4d67bf5949dfdb75a_lecture15_supp.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/0a6a8cae0ade92c4d67bf5949dfdb75a_lecture15_supp.pdf
 file_size: 1461420
 file_type: application/pdf
 learning_resource_types:

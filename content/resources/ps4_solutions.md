@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions of problems on CVD and gas kinectics and vacuum technology.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/634b857f957172c64c5e4a3976d08eb3_ps4_solutions.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/634b857f957172c64c5e4a3976d08eb3_ps4_solutions.pdf
 file_size: 409645
 file_type: application/pdf
 learning_resource_types:

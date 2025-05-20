@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discussion upon Etching.
-file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/83b8c6a46af5214061af4f03542cec40_lecture16.pdf
+file: /courses/6-152j-micro-nano-processing-technology-fall-2005/83b8c6a46af5214061af4f03542cec40_lecture16.pdf
 file_size: 3638728
 file_type: application/pdf
 learning_resource_types:
