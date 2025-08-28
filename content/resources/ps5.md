@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resourse contains problems on CVD, oxygen plasma.
-file: /courses/6-152j-micro-nano-processing-technology-fall-2005/fc0c5674f46800ca02014a5701275c0a_ps5.pdf
+file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/fc0c5674f46800ca02014a5701275c0a_ps5.pdf
 file_size: 18471
 file_type: application/pdf
 learning_resource_types:

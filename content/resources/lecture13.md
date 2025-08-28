@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-152j-micro-nano-processing-technology-fall-2005/4e555db93fbd2b7473f14100fbaadcc8_lecture13.pdf
+file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/4e555db93fbd2b7473f14100fbaadcc8_lecture13.pdf
 file_size: 1640501
 file_type: application/pdf
 learning_resource_types:
