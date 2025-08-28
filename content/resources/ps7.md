@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problems on diffraction grating of SiO2 lines on Si.
-file: /courses/6-152j-micro-nano-processing-technology-fall-2005/77a1c5b3c36f753e40da2fc33fb213a5_ps7.pdf
+file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/77a1c5b3c36f753e40da2fc33fb213a5_ps7.pdf
 file_size: 18908
 file_type: application/pdf
 learning_resource_types:
