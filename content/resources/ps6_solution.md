@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions of problems on Lithography.
-file: /courses/6-152j-micro-nano-processing-technology-fall-2005/4608a72c43fbc9d97e4f52c5ef093097_ps6_solution.pdf
+file: /ol-ocw-studio-app/courses/6-152j-micro-nano-processing-technology-fall-2005/4608a72c43fbc9d97e4f52c5ef093097_ps6_solution.pdf
 file_size: 190388
 file_type: application/pdf
 learning_resource_types:
